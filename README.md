@@ -57,28 +57,5 @@ jupyter notebook TelecomX_BR.ipynb
 
 ---
 
-## 📊 Principais Insights
-
-- **Contratos mensais** e **pagamento eletrônico (Electronic Check)** são os principais preditores de evasão.
-- **Clientes com menos de 1 ano de contrato** e sem serviços adicionais cancelam com mais frequência.
-- **Clientes mais antigos e com múltiplos serviços** são mais fiéis.
-
-### 🔥 Recomendações
-
-1. Incentivar migração para **contratos anuais** com descontos.
-2. Criar **campanhas de retenção** para clientes com menos de 1 ano de contrato.
-3. Melhorar a **experiência no pagamento eletrônico**.
-4. Oferecer **pacotes de serviços combinados** para aumentar o engajamento.
-
----
-
-## 📷 Exemplos de Visualizações
-
-![Churn por Tipo de Contrato](images/analise_de_evasao_variaveis_categoricas.png)  
-![Heatmap de Correlação](images/analise_de_evasao_variaveis_numericas.png)
-
----
-
 ## ✒️ Autor
 Projeto desenvolvido por **Rafael R. R.**  
-📫 Contato: [SEU_EMAIL] | [LinkedIn](SEU_LINKEDIN)
